@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ecrataba.github.io/sitemap.html.gz
+Sitemap: https://ecrataba.github.io/app/sitemap.html.gz
+Sitemap: https://ecrataba.github.io/assets/sitemap.html.gz
+Sitemap: https://ecrataba.github.io/css/sitemap.html.gz
+Sitemap: https://ecrataba.github.io/includes/sitemap.html.gz
+Sitemap: https://ecrataba.github.io/item/sitemap.html.gz
+Sitemap: https://ecrataba.github.io/src/sitemap.html.gz
